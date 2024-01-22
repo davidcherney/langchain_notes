@@ -1,0 +1,9 @@
+Table y: This table is named y because it contains data about peoples' height.
+
+Column N : represents the name of the person
+Column H : represents the height of the person in centimeters. 
+
+Table gmass: This table is called gmass because it contains data about peoples' weight.
+
+Column N : represents the name of the person
+Column W : represents the weight of the person in pounds
