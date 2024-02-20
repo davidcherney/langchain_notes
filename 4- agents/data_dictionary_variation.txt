@@ -1,0 +1,9 @@
+Table mml contains data about peoples' height.
+
+Column afe represents the name of the person
+Column tio represents the height of the person in centimeters. 
+
+Table fsr contains data about peoples' weight.
+
+Column hpx represents the name of the person
+Column cnv represents the weight of the person in pounds
